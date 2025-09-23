@@ -1,0 +1,37 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="psychGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9BB5C4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B8D4C2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Brain outline -->
+  <path d="M30 35 C25 30 25 25 30 20 C35 15 45 15 50 20 C55 15 65 15 70 20 C75 25 75 30 70 35 C72 40 70 50 65 55 C60 65 55 70 50 70 C45 70 40 65 35 55 C30 50 28 40 30 35 Z" 
+        fill="url(#psychGrad)" opacity="0.8"/>
+  
+  <!-- Neural connections -->
+  <g fill="#8B7D8C" opacity="0.6">
+    <circle cx="40" cy="35" r="2"/>
+    <circle cx="50" cy="30" r="2"/>
+    <circle cx="60" cy="35" r="2"/>
+    <circle cx="45" cy="45" r="2"/>
+    <circle cx="55" cy="45" r="2"/>
+    <circle cx="50" cy="55" r="2"/>
+  </g>
+  
+  <!-- Connection lines -->
+  <g stroke="#8B7D8C" stroke-width="1.5" opacity="0.5" fill="none">
+    <line x1="40" y1="35" x2="50" y2="30"/>
+    <line x1="50" y1="30" x2="60" y2="35"/>
+    <line x1="40" y1="35" x2="45" y2="45"/>
+    <line x1="60" y1="35" x2="55" y2="45"/>
+    <line x1="45" y1="45" x2="50" y2="55"/>
+    <line x1="55" y1="45" x2="50" y2="55"/>
+    <line x1="45" y1="45" x2="55" y2="45"/>
+  </g>
+  
+  <!-- Heart symbol inside brain -->
+  <path d="M47 40 C47 38 49 36 51 36 C53 36 55 38 55 40 C55 42 51 46 51 46 C51 46 47 42 47 40 Z" 
+        fill="#E6B89C" opacity="0.8"/>
+</svg>

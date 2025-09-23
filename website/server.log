@@ -1,0 +1,339 @@
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET / HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/css/style.css HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:25] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/js/script.js HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:12:26] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+220.196.160.125 - - [21/Aug/2025 00:17:34] "GET / HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET / HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:44] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.151 - - [21/Aug/2025 00:18:45] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:26:07] "GET / HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:26:17] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:26:17] "GET /chapters/chapter-04.html HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:26:17] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:26:17] "GET /favicon.ico HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:26:21] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:26:21] "GET /chapters/chapter-03.html HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:26:25] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:26:25] "GET /chapters/chapter-02.html HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:26:29] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:26:29] "GET /chapters/chapter-01.html HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:30:19] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:30:19] "GET /chapters/chapter-01.html HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:56:58] "GET /chapters/chapter-01.html HTTP/1.1" 200 -
+172.105.197.166 - - [21/Aug/2025 00:56:59] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:56:59] "GET /assets/css/chapter.css HTTP/1.1" 404 -
+172.105.197.166 - - [21/Aug/2025 00:56:59] code 404, message File not found
+172.105.197.166 - - [21/Aug/2025 00:56:59] "GET /assets/js/chapter.js HTTP/1.1" 404 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET / HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/css/style.css HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:28] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/js/script.js HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:29] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:36] "GET /chapters/chapter-01.html HTTP/1.1" 200 -
+139.162.123.73 - - [21/Aug/2025 09:34:36] code 404, message File not found
+139.162.123.73 - - [21/Aug/2025 09:34:36] "GET /assets/css/chapter.css HTTP/1.1" 404 -
+139.162.123.73 - - [21/Aug/2025 09:34:36] code 404, message File not found
+139.162.123.73 - - [21/Aug/2025 09:34:36] "GET /assets/js/chapter.js HTTP/1.1" 404 -
+139.162.123.73 - - [21/Aug/2025 09:34:37] code 404, message File not found
+139.162.123.73 - - [21/Aug/2025 09:34:37] "GET /favicon.ico HTTP/1.1" 404 -
+193.32.162.13 - - [21/Aug/2025 20:12:16] code 400, message Bad request syntax ('SSH-2.0-Go')
+193.32.162.13 - - [21/Aug/2025 20:12:16] "SSH-2.0-Go" 400 -
+139.162.123.73 - - [22/Aug/2025 16:32:03] "GET / HTTP/1.1" 200 -
+139.162.123.73 - - [22/Aug/2025 16:32:04] "GET / HTTP/1.1" 200 -
+220.196.160.125 - - [22/Aug/2025 16:38:19] "GET / HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:21] "GET / HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/css/style.css HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/js/script.js HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:22] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:23] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:23] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+59.83.208.105 - - [22/Aug/2025 16:38:23] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+194.180.48.182 - - [22/Aug/2025 19:57:55] code 400, message Bad request syntax ('\\x03\\x00\\x00\\x13\\x0eà\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x08\\x00\\x03\\x00\\x00\\x00')
+194.180.48.182 - - [22/Aug/2025 19:57:55] "\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00" 400 -
+147.185.132.98 - - [22/Aug/2025 21:46:25] "GET / HTTP/1.1" 200 -
+129.211.167.108 - - [22/Aug/2025 21:56:41] "GET / HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET / HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET /assets/css/style.css HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:43] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:44] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:44] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:44] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:44] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:44] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:45] "GET /assets/js/script.js HTTP/1.1" 200 -
+180.101.244.13 - - [22/Aug/2025 21:56:45] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+159.75.199.224 - - [23/Aug/2025 12:29:40] "GET / HTTP/1.1" 200 -
+162.216.149.196 - - [23/Aug/2025 13:32:56] "GET / HTTP/1.1" 200 -
+35.203.211.220 - - [24/Aug/2025 01:57:00] "GET / HTTP/1.1" 200 -
+139.162.123.73 - - [24/Aug/2025 10:19:25] "GET / HTTP/1.1" 200 -
+180.101.245.251 - - [24/Aug/2025 10:27:50] "GET / HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:51] "GET / HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:52] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [24/Aug/2025 10:27:53] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+147.185.133.247 - - [24/Aug/2025 12:21:18] "GET / HTTP/1.1" 200 -
+118.26.104.78 - - [24/Aug/2025 16:11:14] code 400, message Bad request version ('\\x00\\x9eÌ¨Ìª\\x003\\x00=\\x00\\x16À')
+118.26.104.78 - - [24/Aug/2025 16:11:14] "\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03Õ\x86\x0dBpékg\x91DîÝÙÕ@\x02\x93æÿi\x90¤B\x93Ø$êb}ëÅÌ Æ\x91$A\x08Ø\x97o\\\x8f\x1dC³õ9s¼/[¼ÇÜÃ\x83§&G\x87²\x0eÖ¼\x004Ì¨Ì©À/À0À+À,À\x09\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À" 400 -
+118.26.104.78 - - [24/Aug/2025 16:11:25] "GET / HTTP/1.1" 200 -
+118.26.104.78 - - [24/Aug/2025 16:11:27] code 404, message File not found
+118.26.104.78 - - [24/Aug/2025 16:11:27] "GET /robots.txt HTTP/1.1" 404 -
+118.26.104.78 - - [24/Aug/2025 16:11:27] code 404, message File not found
+118.26.104.78 - - [24/Aug/2025 16:11:27] "GET /sitemap.xml HTTP/1.1" 404 -
+118.26.104.78 - - [24/Aug/2025 16:11:27] code 404, message File not found
+118.26.104.78 - - [24/Aug/2025 16:11:27] "GET /config.json HTTP/1.1" 404 -
+35.203.211.239 - - [24/Aug/2025 19:40:35] code 404, message File not found
+35.203.211.239 - - [24/Aug/2025 19:40:35] "GET /.well-known/security.txt HTTP/1.1" 404 -
+162.216.149.115 - - [24/Aug/2025 22:22:13] "GET / HTTP/1.1" 200 -
+139.162.123.73 - - [25/Aug/2025 10:56:58] "GET / HTTP/1.1" 200 -
+180.101.245.253 - - [25/Aug/2025 11:07:50] "GET / HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET / HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:52] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.96 - - [25/Aug/2025 11:07:53] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+35.203.210.213 - - [25/Aug/2025 13:46:41] "GET / HTTP/1.1" 200 -
+35.203.211.85 - - [25/Aug/2025 22:06:54] "GET / HTTP/1.1" 200 -
+180.101.245.251 - - [25/Aug/2025 22:16:56] "GET / HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:00] "GET / HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:00] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:00] "GET /assets/css/style.css HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:01] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+129.211.167.108 - - [25/Aug/2025 22:17:01] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+129.211.163.253 - - [25/Aug/2025 22:17:03] "GET /assets/js/script.js HTTP/1.1" 200 -
+129.211.167.108 - - [25/Aug/2025 22:17:09] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+129.211.166.142 - - [25/Aug/2025 22:17:09] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+129.211.166.142 - - [25/Aug/2025 22:17:10] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:10] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+129.211.166.123 - - [25/Aug/2025 22:17:10] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+129.211.166.142 - - [25/Aug/2025 22:17:10] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+129.211.166.142 - - [25/Aug/2025 22:17:11] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+139.162.123.73 - - [26/Aug/2025 09:07:43] "GET / HTTP/1.1" 200 -
+220.196.160.125 - - [26/Aug/2025 09:19:00] "GET / HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:02] "GET / HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/css/style.css HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/js/script.js HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:03] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:04] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:04] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+180.101.244.13 - - [26/Aug/2025 09:19:04] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+106.55.251.49 - - [26/Aug/2025 11:50:36] "GET / HTTP/1.1" 200 -
+162.216.150.252 - - [26/Aug/2025 11:58:30] "GET / HTTP/1.1" 200 -
+147.185.133.228 - - [26/Aug/2025 22:21:50] "GET / HTTP/1.1" 200 -
+193.32.162.25 - - [27/Aug/2025 03:58:51] code 400, message Bad request syntax ('SSH-2.0-Go')
+193.32.162.25 - - [27/Aug/2025 03:58:51] "SSH-2.0-Go" 400 -
+4.242.192.205 - - [27/Aug/2025 09:28:19] "GET / HTTP/1.1" 200 -
+59.83.208.105 - - [27/Aug/2025 09:39:28] "GET / HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:29] "GET / HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:30] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:30] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.84 - - [27/Aug/2025 09:39:31] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+162.216.149.102 - - [27/Aug/2025 14:14:24] "GET / HTTP/1.1" 200 -
+35.203.210.244 - - [27/Aug/2025 22:07:05] "GET / HTTP/1.1" 200 -
+139.162.123.73 - - [28/Aug/2025 09:04:35] "GET / HTTP/1.1" 200 -
+220.196.160.45 - - [28/Aug/2025 09:08:01] "GET / HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:02] "GET / HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:03] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.75 - - [28/Aug/2025 09:08:04] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+162.216.150.171 - - [28/Aug/2025 11:50:34] "GET / HTTP/1.1" 200 -
+162.216.150.216 - - [28/Aug/2025 23:51:55] "GET / HTTP/1.1" 200 -
+47.251.86.118 - - [29/Aug/2025 10:58:53] code 400, message Bad request version ('À\\x13À')
+47.251.86.118 - - [29/Aug/2025 10:58:53] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+47.251.86.118 - - [29/Aug/2025 10:59:03] "GET / HTTP/1.1" 200 -
+123.160.223.73 - - [29/Aug/2025 10:59:46] "GET / HTTP/1.1" 200 -
+111.7.96.158 - - [29/Aug/2025 10:59:46] "GET / HTTP/1.1" 200 -
+111.7.96.169 - - [29/Aug/2025 10:59:48] "GET / HTTP/1.1" 200 -
+111.7.106.104 - - [29/Aug/2025 10:59:48] "GET / HTTP/1.1" 200 -
+111.7.96.169 - - [29/Aug/2025 10:59:49] "GET / HTTP/1.1" 200 -
+111.7.106.105 - - [29/Aug/2025 10:59:49] "GET / HTTP/1.1" 200 -
+123.160.223.74 - - [29/Aug/2025 10:59:49] "GET / HTTP/1.1" 200 -
+111.7.96.169 - - [29/Aug/2025 10:59:49] "GET /assets/js/script.js HTTP/1.1" 200 -
+111.7.106.105 - - [29/Aug/2025 10:59:50] "GET /assets/js/script.js HTTP/1.1" 200 -
+111.7.96.158 - - [29/Aug/2025 10:59:50] "GET / HTTP/1.1" 200 -
+123.160.223.75 - - [29/Aug/2025 10:59:50] "GET /assets/js/script.js HTTP/1.1" 200 -
+111.7.96.158 - - [29/Aug/2025 10:59:50] "GET /assets/js/script.js HTTP/1.1" 200 -
+123.160.223.75 - - [29/Aug/2025 10:59:56] "GET / HTTP/1.1" 200 -
+123.160.223.72 - - [29/Aug/2025 10:59:57] "GET / HTTP/1.1" 200 -
+123.160.223.72 - - [29/Aug/2025 10:59:58] "GET /assets/js/script.js HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:05:33] "GET / HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:36] "GET / HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:36] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:37] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:37] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:37] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:38] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:38] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:38] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:38] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:39] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:39] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:39] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:05:39] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+59.83.208.103 - - [29/Aug/2025 11:08:15] "GET / HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:16] "GET / HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/css/style.css HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/js/script.js HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:08:17] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+154.29.155.49 - - [29/Aug/2025 11:11:51] "GET / HTTP/1.1" 200 -
+220.196.160.53 - - [29/Aug/2025 11:18:16] "GET / HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:19] "GET / HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/css/style.css HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/js/script.js HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:20] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:21] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:21] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+180.101.244.15 - - [29/Aug/2025 11:18:21] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+162.216.149.215 - - [29/Aug/2025 12:12:42] "GET / HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:23] "GET / HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:23] "GET /assets/css/style.css HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:24] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:26] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:26] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:27] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+180.101.245.252 - - [29/Aug/2025 16:43:27] "GET /assets/js/script.js HTTP/1.1" 200 -
+162.216.149.30 - - [30/Aug/2025 00:55:05] "GET / HTTP/1.1" 200 -
+185.242.226.73 - - [30/Aug/2025 05:24:50] code 400, message Bad request version ('À\\x14À')
+185.242.226.73 - - [30/Aug/2025 05:24:50] "\x16\x03\x01\x00\x8c\x01\x00\x00\x88\x03\x03\x7f4â³öó¡(Ór`e\x02~\x08\x83²XfÂD!0à3\x12,\x89\x09J\x1c\x19\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+162.216.150.69 - - [30/Aug/2025 12:26:49] "GET / HTTP/1.1" 200 -
+4.242.192.205 - - [30/Aug/2025 12:31:13] "GET / HTTP/1.1" 200 -
+220.196.160.124 - - [30/Aug/2025 12:37:17] "GET / HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET / HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:19] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+220.196.160.61 - - [30/Aug/2025 12:37:20] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+112.4.101.84 - - [30/Aug/2025 17:05:06] "GET / HTTP/1.1" 200 -
+112.4.101.84 - - [30/Aug/2025 17:05:07] code 400, message Bad request version ('À\\x13À')
+112.4.101.84 - - [30/Aug/2025 17:05:07] "\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03\x07ª?{ìE\x89HzcÕ\x9fÞ~\x14tÉG3­\x8a/À[\x98u¡Hê¶¯8 \x01dH\x19A%\x8d\x96¾«¢Ñ\x80#ÝÉ}ÿ£\x98\x81\x01²Ç¨p\x01f\x8cr\x0cg\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+112.4.101.84 - - [30/Aug/2025 17:05:07] code 400, message Bad HTTP/0.9 request type ('t3')
+112.4.101.84 - - [30/Aug/2025 17:05:07] "t3 12.1.2" 400 -
+106.75.16.162 - - [30/Aug/2025 17:05:46] "GET / HTTP/1.1" 200 -
+106.75.16.162 - - [30/Aug/2025 17:05:48] "GET /assets/js/script.js HTTP/1.1" 200 -
+106.75.16.162 - - [30/Aug/2025 17:05:48] code 404, message File not found
+106.75.16.162 - - [30/Aug/2025 17:05:48] "GET /robots.txt HTTP/1.1" 404 -
+106.75.16.162 - - [30/Aug/2025 17:05:48] code 404, message File not found
+106.75.16.162 - - [30/Aug/2025 17:05:48] "GET /sitemap.xml HTTP/1.1" 404 -
+35.203.210.13 - - [31/Aug/2025 00:02:22] "GET / HTTP/1.1" 200 -
+162.216.149.49 - - [31/Aug/2025 03:37:33] "GET / HTTP/1.1" 200 -
+4.242.192.205 - - [31/Aug/2025 13:36:32] "GET / HTTP/1.1" 200 -
+180.101.245.248 - - [31/Aug/2025 13:48:17] "GET / HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:21] "GET / HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/css/style.css HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/js/script.js HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/svg/science-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/svg/beauty-philosophy.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/svg/psychology-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/svg/hero-illustration.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:22] "GET /assets/svg/practice-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:23] "GET /assets/svg/growth-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:23] "GET /assets/svg/decision-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:23] "GET /assets/svg/assessment-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:23] "GET /assets/svg/bias-icon.svg HTTP/1.1" 200 -
+220.196.160.144 - - [31/Aug/2025 13:48:23] "GET /assets/svg/psychology-effects-icon.svg HTTP/1.1" 200 -
+162.216.149.184 - - [31/Aug/2025 14:36:21] "GET / HTTP/1.1" 200 -

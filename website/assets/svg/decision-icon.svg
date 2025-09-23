@@ -1,0 +1,46 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="decisionGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4A574;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E6B89C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Decision tree structure -->
+  <g transform="translate(50, 20)">
+    <!-- Root node -->
+    <circle cx="0" cy="0" r="8" fill="url(#decisionGrad)"/>
+    
+    <!-- Main branches -->
+    <g stroke="#8B7D8C" stroke-width="3" fill="none">
+      <line x1="0" y1="8" x2="-20" y2="30"/>
+      <line x1="0" y1="8" x2="20" y2="30"/>
+    </g>
+    
+    <!-- Secondary nodes -->
+    <circle cx="-20" cy="30" r="6" fill="#9BB5C4"/>
+    <circle cx="20" cy="30" r="6" fill="#9BB5C4"/>
+    
+    <!-- Tertiary branches -->
+    <g stroke="#A69CAC" stroke-width="2" fill="none">
+      <line x1="-20" y1="36" x2="-30" y2="50"/>
+      <line x1="-20" y1="36" x2="-10" y2="50"/>
+      <line x1="20" y1="36" x2="10" y2="50"/>
+      <line x1="20" y1="36" x2="30" y2="50"/>
+    </g>
+    
+    <!-- End nodes -->
+    <g fill="#B8D4C2">
+      <circle cx="-30" cy="50" r="4"/>
+      <circle cx="-10" cy="50" r="4"/>
+      <circle cx="10" cy="50" r="4"/>
+      <circle cx="30" cy="50" r="4"/>
+    </g>
+    
+    <!-- Success indicators -->
+    <g fill="#E6B89C" opacity="0.8">
+      <path d="M-32 48 L-30 50 L-28 47" stroke="#E6B89C" stroke-width="1.5" fill="none"/>
+      <path d="M8 48 L10 50 L12 47" stroke="#E6B89C" stroke-width="1.5" fill="none"/>
+    </g>
+  </g>
+</svg>

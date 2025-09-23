@@ -1,0 +1,42 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="growthGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B7D8C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A69CAC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Growing plant/tree representing personal growth -->
+  <g transform="translate(50, 80)">
+    <!-- Trunk -->
+    <rect x="-3" y="-10" width="6" height="15" fill="#D4A574" opacity="0.8"/>
+    
+    <!-- Branches -->
+    <path d="M0 -10 L-8 -20 M0 -10 L8 -20 M0 -15 L-12 -30 M0 -15 L12 -30" 
+          stroke="url(#growthGrad)" stroke-width="2" fill="none"/>
+    
+    <!-- Leaves -->
+    <g fill="#B8D4C2" opacity="0.8">
+      <ellipse cx="-8" cy="-25" rx="5" ry="8" transform="rotate(-30 -8 -25)"/>
+      <ellipse cx="8" cy="-25" rx="5" ry="8" transform="rotate(30 8 -25)"/>
+      <ellipse cx="-15" cy="-35" rx="6" ry="10" transform="rotate(-45 -15 -35)"/>
+      <ellipse cx="15" cy="-35" rx="6" ry="10" transform="rotate(45 15 -35)"/>
+    </g>
+    
+    <!-- Flowers on branches -->
+    <g fill="#E6B89C">
+      <circle cx="-8" cy="-20" r="3"/>
+      <circle cx="8" cy="-20" r="3"/>
+      <circle cx="-12" cy="-30" r="2.5"/>
+      <circle cx="12" cy="-30" r="2.5"/>
+    </g>
+    
+    <!-- Roots -->
+    <path d="M0 5 L-6 12 M0 5 L6 12 M0 5 L0 12" 
+          stroke="#D4A574" stroke-width="2" opacity="0.6" fill="none"/>
+  </g>
+  
+  <!-- Upward arrow -->
+  <path d="M50 25 L50 15 L45 20 M50 15 L55 20" 
+        stroke="#8B7D8C" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>

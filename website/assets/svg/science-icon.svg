@@ -1,0 +1,39 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="scienceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4A574;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E6B89C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- DNA helix structure -->
+  <g transform="translate(50, 50)">
+    <!-- Left strand -->
+    <path d="M-15 -30 Q-10 -20 -15 -10 Q-20 0 -15 10 Q-10 20 -15 30" 
+          stroke="url(#scienceGrad)" stroke-width="3" fill="none"/>
+    
+    <!-- Right strand -->
+    <path d="M15 -30 Q10 -20 15 -10 Q20 0 15 10 Q10 20 15 30" 
+          stroke="url(#scienceGrad)" stroke-width="3" fill="none"/>
+    
+    <!-- Connecting base pairs -->
+    <g stroke="#8B7D8C" stroke-width="2" opacity="0.6">
+      <line x1="-15" y1="-25" x2="15" y2="-25"/>
+      <line x1="-15" y1="-15" x2="15" y2="-15"/>
+      <line x1="-15" y1="-5" x2="15" y2="-5"/>
+      <line x1="-15" y1="5" x2="15" y2="5"/>
+      <line x1="-15" y1="15" x2="15" y2="15"/>
+      <line x1="-15" y1="25" x2="15" y2="25"/>
+    </g>
+    
+    <!-- Molecular nodes -->
+    <g fill="#9BB5C4">
+      <circle cx="-15" cy="-25" r="2"/>
+      <circle cx="15" cy="-25" r="2"/>
+      <circle cx="-15" cy="-5" r="2"/>
+      <circle cx="15" cy="-5" r="2"/>
+      <circle cx="-15" cy="15" r="2"/>
+      <circle cx="15" cy="15" r="2"/>
+    </g>
+  </g>
+</svg>

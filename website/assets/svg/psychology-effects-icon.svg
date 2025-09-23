@@ -1,0 +1,51 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="effectsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#B8D4C2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9BB5C4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Interconnected nodes representing psychological effects -->
+  <g transform="translate(50, 50)">
+    <!-- Central hub -->
+    <circle cx="0" cy="0" r="8" fill="url(#effectsGrad)"/>
+    
+    <!-- Surrounding nodes -->
+    <g fill="#D4A574" opacity="0.8">
+      <circle cx="0" cy="-25" r="5"/>
+      <circle cx="22" cy="-12" r="5"/>
+      <circle cx="22" cy="12" r="5"/>
+      <circle cx="0" cy="25" r="5"/>
+      <circle cx="-22" cy="12" r="5"/>
+      <circle cx="-22" cy="-12" r="5"/>
+    </g>
+    
+    <!-- Connections -->
+    <g stroke="#8B7D8C" stroke-width="2" opacity="0.5">
+      <line x1="0" y1="-8" x2="0" y2="-20"/>
+      <line x1="7" y1="-4" x2="17" y2="-8"/>
+      <line x1="7" y1="4" x2="17" y2="8"/>
+      <line x1="0" y1="8" x2="0" y2="20"/>
+      <line x1="-7" y1="4" x2="-17" y2="8"/>
+      <line x1="-7" y1="-4" x2="-17" y2="-8"/>
+    </g>
+    
+    <!-- Ripple effects -->
+    <g fill="none" stroke="#E6B89C" stroke-width="1.5" opacity="0.4">
+      <circle cx="0" cy="0" r="15"/>
+      <circle cx="0" cy="0" r="20"/>
+      <circle cx="0" cy="0" r="30"/>
+    </g>
+    
+    <!-- Small indicators of influence -->
+    <g fill="#A69CAC" opacity="0.6">
+      <circle cx="12" cy="-18" r="1.5"/>
+      <circle cx="25" cy="0" r="1.5"/>
+      <circle cx="12" cy="18" r="1.5"/>
+      <circle cx="-12" cy="18" r="1.5"/>
+      <circle cx="-25" cy="0" r="1.5"/>
+      <circle cx="-12" cy="-18" r="1.5"/>
+    </g>
+  </g>
+</svg>

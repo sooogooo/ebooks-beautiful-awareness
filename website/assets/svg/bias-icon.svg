@@ -1,0 +1,39 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="biasGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#A69CAC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B7D8C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Eye with vision distortion -->
+  <g transform="translate(50, 50)">
+    <!-- Outer eye shape -->
+    <ellipse cx="0" cy="0" rx="25" ry="15" fill="none" stroke="url(#biasGrad)" stroke-width="3"/>
+    
+    <!-- Iris -->
+    <circle cx="0" cy="0" r="10" fill="url(#biasGrad)" opacity="0.6"/>
+    
+    <!-- Pupil -->
+    <circle cx="0" cy="0" r="5" fill="#2C2C2C"/>
+    
+    <!-- Reflection -->
+    <circle cx="-2" cy="-2" r="2" fill="#FEFEFE" opacity="0.8"/>
+    
+    <!-- Distortion lines around the eye -->
+    <g stroke="#D4A574" stroke-width="2" opacity="0.6" fill="none">
+      <path d="M-35 -5 Q-30 0 -35 5"/>
+      <path d="M35 -5 Q30 0 35 5"/>
+      <path d="M-5 -25 Q0 -20 5 -25"/>
+      <path d="M-5 25 Q0 20 5 25"/>
+    </g>
+    
+    <!-- Question marks indicating bias -->
+    <g fill="#E6B89C" opacity="0.7" font-size="12" font-weight="bold">
+      <text x="-30" y="-20" text-anchor="middle">?</text>
+      <text x="30" y="-20" text-anchor="middle">?</text>
+      <text x="-30" y="25" text-anchor="middle">?</text>
+      <text x="30" y="25" text-anchor="middle">?</text>
+    </g>
+  </g>
+</svg>
